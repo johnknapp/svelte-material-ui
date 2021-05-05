@@ -1,0 +1,1 @@
+function n(n){var r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},e=r.addClass,s=void 0===e?function(r){return n.classList.add(r)}:e,o=r.removeClass,a=void 0===o?function(r){return n.classList.remove(r)}:o;return s("mdc-menu-surface--anchor"),{destroy:function(){a("mdc-menu-surface--anchor")}}}export{n as A};

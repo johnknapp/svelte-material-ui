@@ -1,0 +1,1 @@
+import{a8 as e}from"./client.96e14a9c.js";import"@babel/runtime/helpers/esm/slicedToArray";import{G as r}from"./Graphic.a526fb07.js";var o=e({class:"mdc-menu__selection-group-icon",component:r});export{o as S};
